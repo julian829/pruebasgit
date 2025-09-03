@@ -1,5 +1,11 @@
 public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World! mensaje 1 mensaje 2");
+    public class vehiculo{
+
+        String acelerar;
+        String frenar;
+        int velicimetro;
+        
     }
+
+    
 }
